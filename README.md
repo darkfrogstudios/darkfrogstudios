@@ -1,4 +1,4 @@
-- 👋 Hi there fellow gamers, I’m wesley owner of @darkfrogstudios
+- 👋 Hi there fellow gamers, I’m Wesley owner of @darkfrogstudios
 - 👀 I’m interested in creation games, tech, music
 - 🌱 I’m currently learning Pixel Art and GameMaker 2 development
 - 💞️ I’m looking to collaborate on Music and Game development
